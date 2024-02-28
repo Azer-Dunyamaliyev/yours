@@ -1,0 +1,14 @@
+{
+  "name": "yours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:SASS": "node-sass assets/SASS/style.scss assets/CSS/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

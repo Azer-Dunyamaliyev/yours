@@ -1,0 +1,84 @@
+{
+    "morning": [
+        {
+            "imgSRC": "assets/image/info_lg_1.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_2.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_3.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_4.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_5.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_6.png"
+        }
+    ] ,
+    "weekday": [
+        {
+            "imgSRC": "assets/image/info_lg_7.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_8.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_9.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_10.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_11.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_12.png"
+        }
+    ] ,
+    "dinner": [
+        {
+            "imgSRC": "assets/image/info_lg_13.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_14.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_15.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_16.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_17.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_18.png"
+        }
+    ] ,
+    "wine": [
+        {
+            "imgSRC": "assets/image/info_lg_19.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_20.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_21.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_22.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_23.png"
+        } ,
+        {
+            "imgSRC": "assets/image/info_lg_24.png"
+        }
+    ]
+} 
+
+
